@@ -8,7 +8,7 @@ We've hightlighted the most economically viable areas in the UK for each renewab
 
 We have also estimated how much energy could be produced (in an ideal situation) at each of these highlighted locations. We have not included data for wind energy as the calculations were too complex to get near to an accurate answer in the rush to finish.
 
-Setup
+Setup:
 
 1) Enter the directory to where you forked the EcoOptimiser project to. Run the following command in your terminal (this requires python 3 to be installed):
 
