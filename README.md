@@ -14,4 +14,4 @@ Setup:
 
 python3 -m http.server
 
-2) This should the project on local server with address http://localhost:8000. Simply paste the following url in your chosen browser http://localhost:8000/Index.
+2) This should the project on local server with address http://localhost:8000. Simply paste the following url in your chosen browser http://localhost:8000/Index.html.
